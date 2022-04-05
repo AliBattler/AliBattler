@@ -2,7 +2,7 @@
 - 👀 I’m interested in Test Automation
 - 🌱 I’m currently learning test automation
 - 💞️ I’m looking to collaborate on project
-- 📫 How to reach me ...
+- 📫 How to reach me ali
 
 <!---
 AliBattler/AliBattler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
